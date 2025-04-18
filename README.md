@@ -1,4 +1,4 @@
-# Quotes App with SQLite, GetX, and Animate_do ✨📱
+# Quotes App with SQLite, GetX, and Animate_do 📱
 
 A dynamic Flutter application designed to inspire and engage users by providing a collection of quotes. The app combines robust functionality with a sleek and modern UI, offering an enjoyable user experience.
 
